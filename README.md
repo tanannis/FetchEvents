@@ -8,4 +8,3 @@ About this project:
 - It supports iOS 12 and above
 - It complies with Xcode 12
 - Created in Swift 5
-
