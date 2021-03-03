@@ -34,3 +34,6 @@ Create a Swift file for the table view controller and related functions
 Create a Swift file for API request
 1. Put the resource URL here
 2. Send GET request to the API and parse return data to JSON objects.
+
+**Challenges that I faced*
+The Swift language is fairly easy, but its library / UI codes are little complicated to me compared to React Native, because I've learned how to use in only a few days. I was having difficulties trying fetching data from the events array, and for some reason, it returned an empty array. I guess it has something to do with the life cycle, or I didn't define the structs correctly. But overall it's a great experience, and I will keep looking for a solution to solve this problem and finish this project.
