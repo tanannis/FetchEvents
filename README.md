@@ -23,5 +23,14 @@ Main.storyboard
 2. Find the "Table View" from the UI library and drag it to the canvas
 3. Find the "Search Bar" from the UI library and drag it on the very top of table view
 
-Create the Event.Swift
-1. Define some structs in this file. All key names must be the same as the JSON objects in the resource url
+Create a Swift file for some structs
+1. All key names must be the same as the JSON objects in the resource url
+2. Must decode each struct
+
+Create a Swift file for the table view controller and related functions
+1. Search bar delegates goes here
+2. Use the functions for rendering data to the table view.
+
+Create a Swift file for API request
+1. Put the resource URL here
+2. Send GET request to the API and parse return data to JSON objects.
