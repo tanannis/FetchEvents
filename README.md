@@ -1,6 +1,6 @@
 # FetchEvents
 
-**Building in progress**
+## **Building in progress**
 
 This is my starter project after learning Swift over the weekend. I am still in the process of building this mini App and try to connect it with the SeatGeek Platform API.
 
@@ -35,7 +35,8 @@ Create a Swift file for API request
 1. Put the resource URL here
 2. Send GET request to the API and parse return data to JSON objects.
 
-**Challenges that I faced**
+## **Challenges that I faced**
+
 The Swift language is fairly easy, but its library / UI codes are little complicated to me compared to React Native because I just started to use it 2 days ago. I was having difficulties fetching data from the events array, and for some reason, it returned an empty array. I guess it had something to do with the life cycle, or I just didn't define the structs correctly. But overall it's a great experience learning how to create a mobile app in Swift, and I will keep looking for a solution to solve this problem and finish this project later.
 
 Happy Coding =)
